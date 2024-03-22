@@ -1,4 +1,14 @@
 import java.util.Scanner;
+/**Class: EvenNumber
+ * @author Calina Winfield
+ * @version 1.0
+ * Course: ITEC 2140 section 03 Spring 2024
+ * Written: March 14, 2024
+ *
+ * (#3 in HW)
+ * Purpose - asks the user to enter a number, which will be passed through one method to
+ * determine if it's an even number, and another method to print out whether it is or not.
+ */
 
 public class EvenNumber {
     private Scanner input;

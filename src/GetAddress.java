@@ -1,4 +1,14 @@
 import java.util.Scanner;
+/**Class: GetAddress
+ * @author Calina Winfield
+ * @version 1.0
+ * Course: ITEC 2140 section 03 Spring 2024
+ * Written: March 14, 2024
+ *
+ * (#6 in HW)
+ * Purpose - create a class with instance variables to hold the name, street
+ * address, city, and state for a user using nameAddress and cityState methods.
+ */
 
 public class GetAddress {
     private Scanner keyboard;

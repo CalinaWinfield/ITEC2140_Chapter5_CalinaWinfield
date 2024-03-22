@@ -4,21 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6ec6165-7018-43ee-8299-1922a8029d26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ITEC2140_Chapter5_CalinaWinfield.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GetAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GetGameScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GetUserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IsPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RectangleSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfNumbers.java" afterDir="false" />
+    <list default="true" id="e6ec6165-7018-43ee-8299-1922a8029d26" name="Changes" comment="re-upload (sometimes it works and shows the first time I upload, sometimes it doesn't)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetGameScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetGameScores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GetUserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GetUserInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RectangleSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RectangleSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,11 +131,25 @@
       <workItem from="1710592006475" duration="10397000" />
       <workItem from="1710690801578" duration="11855000" />
       <workItem from="1710767619572" duration="6763000" />
-      <workItem from="1710860187943" duration="3119000" />
+      <workItem from="1710860187943" duration="3684000" />
+      <workItem from="1711072134091" duration="1301000" />
     </task>
+    <task id="LOCAL-00001" summary="re-upload (sometimes it works and shows the first time I upload, sometimes it doesn't)">
+      <option name="closed" value="true" />
+      <created>1710877186159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710877186159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="re-upload (sometimes it works and shows the first time I upload, sometimes it doesn't)" />
+    <option name="LAST_COMMIT_MESSAGE" value="re-upload (sometimes it works and shows the first time I upload, sometimes it doesn't)" />
   </component>
 </project>

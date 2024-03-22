@@ -1,4 +1,14 @@
 import java.util.Scanner;
+/**Class: ReverseString
+ * @author Calina Winfield
+ * @version 1.0
+ * Course: ITEC 2140 section 03 Spring 2024
+ * Written: March 14, 2024
+ *
+ * (#4 in HW)
+ * Purpose - Create a method reverseString which takes a String as a
+ * parameter and returns a String with all the characters reversed.
+ */
 
 public class ReverseString{
     private Scanner input;

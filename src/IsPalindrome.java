@@ -1,4 +1,14 @@
 import java.util.Scanner;
+/**Class: IsPalindrome
+ * @author Calina Winfield
+ * @version 1.0
+ * Course: ITEC 2140 section 03 Spring 2024
+ * Written: March 14, 2024
+ *
+ * (#5 in HW)
+ * Purpose - Create a method, isPalindrome, which returns true if
+ * the String passed to it is a palindrome and false if it is not.
+ */
 
 public class IsPalindrome{
     private Scanner input;

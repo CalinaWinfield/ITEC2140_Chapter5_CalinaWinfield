@@ -1,4 +1,14 @@
 import java.util.Scanner;
+/**Class: RectangleSize
+ * @author Calina Winfield
+ * @version 1.0
+ * Course: ITEC 2140 section 03 Spring 2024
+ * Written: March 14, 2024
+ *
+ * (#8 in HW)
+ * Purpose - allow the user to input a length and width of a rectangle for the area of it to be calculated
+ * through one method, and another method to determine if it is larger or smaller than 300.
+ */
 
 public class RectangleSize {
     private Scanner input;
